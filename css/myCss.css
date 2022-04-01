@@ -234,6 +234,8 @@ footer{
 	}
 	.derecha{
 		width:90%;
+	}
+	.derecha p{
 		font-size:20px;
 	}
 	.redes{
@@ -340,6 +342,9 @@ footer{
 	}
 	nav{
 		background: none;
+	}
+	.derecha p{
+		font-size:20px;
 	}
 	
 }

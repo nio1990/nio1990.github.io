@@ -230,9 +230,11 @@ footer{
 	.izquierda{
 		width:100%;
 		float:left;
+		font-size: 20px;
 	}
 	.derecha{
 		width:90%;
+		font-size:20px;
 	}
 	.redes{
 		width:100%;
